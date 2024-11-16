@@ -1,7 +1,6 @@
 # Post-Pandemic Sales Analysis for TechHub
 
 ## Project Overview
-
 **Project Title**: Post-Pandemic Sales Analysis for TechHub  
 **Duration**: January 2024 – Present  
 **Role**: Data Analyst Intern  
