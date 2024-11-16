@@ -129,4 +129,6 @@ The analysis is based on a dataset with over 108,000 records of transactions fro
 
 ---
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
